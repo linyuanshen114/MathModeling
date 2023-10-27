@@ -6,7 +6,7 @@
 
 Transformer 模型最主要的两个部分，编码器和解码器
 
-![transformer](https://cdn.jsdelivr.net/gh/linyuanshen114/MathModeling@1.0.0/2023-2024 圆桌会/第一次圆桌会议-LLM/transformer.png)
+![transformer](transformer.png)
 
 编码器便是把你输入的文字进行量化，也就是转化为模型可以理解的数字语言。
 
